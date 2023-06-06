@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import FeedbackOptions from '../FeedbackOptions/FeedbackOptions';
-import Statistics from '../Statistics/Statistics';
+import {FeedbackOptions} from '../FeedbackOptions/FeedbackOptions';
+import {Statistics} from '../Statistics/Statistics';
 import { Section } from '../Section/Section';
 import { Notification } from '../Notification/Notification.jsx';
 import { Container } from './App.styled';
